@@ -1,0 +1,2 @@
+# codepractice
+To practice javacode
